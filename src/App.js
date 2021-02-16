@@ -1,13 +1,17 @@
-import introImage from './restaurantIntro.jpeg';
-import './App.css';
+import React,{Component} from 'react';
+import Intro from './components/Intro.js'
+<link rel="preconnect" href="https://fonts.gstatic.com"
+href="https://fonts.googleapis.com/css2?family=Arvo:ital@1&display=swap" rel="stylesheet"></link>
 
-function App() {
-  return (
-    <div className="App">
-        <img src={introImage}/>
-        <h1 id='first'>Restaurant</h1>
-    </div>
-  );
+class App extends Component {
+  render () {
+    return (
+      <div>
+        <Intro />
+      </div>
+    )
+  }
 }
+
 
 export default App;

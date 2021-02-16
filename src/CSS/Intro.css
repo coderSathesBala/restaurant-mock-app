@@ -1,0 +1,39 @@
+.all {
+  position: absolute;
+  top: -5%;
+  left: 4%;
+  color: white;
+  /* font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;*/
+  font-family: 'Arvo', serif;
+  font-size: 7rem;
+}
+
+#second {
+  left: 5%;
+  top: 20%;
+  font-size: 4rem;
+}
+
+#third {
+  left: 5.4%;
+  top: 32%;
+  font-size: 3.5rem;
+}
+
+#fourth {
+  left: 5.4%;
+  top: 41%;
+  font-size: 3.5rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  background-image: url(../images/restaurantIntro.jpeg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+ }
