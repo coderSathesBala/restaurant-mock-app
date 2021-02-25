@@ -20,14 +20,8 @@
   font-size: 3.5rem;
 }
 
-img {
-  width: 100%;
-  height: auto;
-}
-
 body {
   background-image: url(../images/restaurantIntro.jpeg);
   background-repeat: no-repeat;
-  height: 100vh;
   margin: 0;
  }

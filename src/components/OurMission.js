@@ -1,12 +1,14 @@
 import blueImageDiv from "../images/blueImageDiv.jpg"
+import foodImage from '../images/foodImage.jpeg'
 import "../CSS/OurMission.css"
+
 
 function OurMission() {
     return (
     <div className="OurMissionWhole">
-        <img src={blueImageDiv}/>
+        <img className="OurMissionImage" src={blueImageDiv}/>
         <div className="OurMissionDescription">
-             <h1>Our Mission</h1>
+             <h1 id="OurMissionTitle">Our Mission</h1>
              <p>Top Notch cuisine provides amazing food with style, grace and refinement. 
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id nibh 
                 fermentum, accumsan metus quis, iaculis massa. Donec rhoncus id ligula ut 
