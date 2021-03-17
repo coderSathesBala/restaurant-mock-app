@@ -2,7 +2,6 @@ import blueImageDiv from "../images/blueImageDiv.jpg"
 import foodImage from '../images/foodImage.jpeg'
 import "../CSS/OurMission.css"
 
-
 function OurMission() {
     return (
     <div className="OurMissionWhole">

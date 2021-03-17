@@ -1,5 +1,16 @@
 .menuImages {
-    width: 19rem;
-    height: 31rem;
-    padding-right: 0.9rem;
+    width: 55vh;
+    height: 90vh;
+    padding-right: 0.7rem;
+    vertical-align: top;
+    margin-top: 3rem;
+    opacity: 0.9;
+}
+
+#one {
+    margin-left: 5rem;
+}
+
+#two {
+    margin-top: 6rem;
 }

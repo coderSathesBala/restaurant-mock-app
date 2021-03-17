@@ -8,10 +8,9 @@ import '../CSS/MenuDisplay.css'
 function MenuDisplay () {
     return (
         <div className="menuDisplay">
-            <img className="menuImages" src={menuImage1}/>
-            <img className="menuImages" src={menuImage2}/>
-            <img className="menuImages" src={menuImage3}/>
-            <img className="menuImages" src={menuImage4}/>
+            <img className="menuImages" id="one" src={menuImage1}/>
+            <img className="menuImages" id="two" src={menuImage2}/>
+            <img className="menuImages" id="three" src={menuImage3}/>
         </div>
     )
 }

@@ -1,10 +1,9 @@
 .OurMissionWhole {
-    /* margin-right: 10rem; */
     position: relative;
 }
 
 #OurMissionTitle {
-    text-align: left;
+    margin-right: 5rem;
 }
 
 .OurMissionImage {
@@ -13,17 +12,11 @@
 }
 
 .OurMissionDescription {
-    margin-right: 3rem;
+    margin-left: 25rem;
     width: 45rem;
     position: absolute;
-    right: 0;
     top: 8rem;
     color: white;
     font-family: 'Arvo', serif;
     font-size: 1.2rem;
-}
-
-.FoodImage {
-    width: 80%;
-    margin: -10rem 0 0 24rem;
 }
