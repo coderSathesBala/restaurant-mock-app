@@ -1,0 +1,17 @@
+#beerTitle {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.beerDisplay {
+    display: grid;
+    grid-template-columns: 17rem 17rem 17rem 17rem;
+    column-gap: 2.5rem;
+    margin-left: 1.4rem;
+    margin-bottom: 7rem;
+}
+
+.menuImages {
+    height: 65vh;
+    width: 45vh;
+}

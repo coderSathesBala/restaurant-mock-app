@@ -14,9 +14,10 @@ function MenuDisplay () {
                 <img className="menuImages" id="three" src={menuImage3}/>
             </div>
             <div className="menuSecond">
-                <h1 className="menuTitles" id="firstTitle"> Dinner Menu</h1>
-                <h1 className="menuTitles"> Drinks Menu</h1>
-                <h1 className="menuTitles"> Dessert Menu</h1>
+                <h1 className="menuTitles" 
+                id="firstTitle"> DINNER <br/> MENU</h1>
+                <h1 className="menuTitles"> DRINKS  <br/> MENU</h1>
+                <h1 className="menuTitles"> DESSERT <br/> MENU</h1>
             </div>
         </div>
     )
