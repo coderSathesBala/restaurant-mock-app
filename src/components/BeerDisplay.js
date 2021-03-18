@@ -9,10 +9,10 @@ function BeerDisplay () {
         <div>
             <h1 id="beerTitle">SEASONAL CRAFT BEERS</h1>
             <div className="beerDisplay">
-                <img className="menuImages" src={beerImage1}/>
-                <img className="menuImages" src={beerImage2}/>
-                <img className="menuImages" src={beerImage3}/>
-                <img className="menuImages" src={beerImage4}/>
+                <img className="beerImages" src={beerImage1}/>
+                <img className="beerImages" src={beerImage2}/>
+                <img className="beerImages" src={beerImage3}/>
+                <img className="beerImages" src={beerImage4}/>
             </div>
         </div>
     )
