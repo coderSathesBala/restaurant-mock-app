@@ -24,4 +24,10 @@ body {
   background-image: url(../images/restaurantIntro.jpeg);
   background-repeat: no-repeat;
   margin: 0;
+  background-size: 85rem;
+  transition-duration: 1s;
+}
+
+body:hover {
+   background-size: 80rem;
  }

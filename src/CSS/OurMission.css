@@ -19,4 +19,9 @@
     color: white;
     font-family: 'Arvo', serif;
     font-size: 1.2rem;
+    transition-duration: 2s;
+}
+
+.OurMissionDescription:hover {
+    color: yellow;
 }
