@@ -7,10 +7,17 @@ import '../CSS/MenuDisplay.css'
 
 function MenuDisplay () {
     return (
-        <div className="menuDisplay">
-            <img className="menuImages" id="one" src={menuImage1}/>
-            <img className="menuImages" id="two" src={menuImage2}/>
-            <img className="menuImages" id="three" src={menuImage3}/>
+        <div>
+            <div className="menuFirst">
+                <img className="menuImages" id="one" src={menuImage1}/>
+                <img className="menuImages" id="two" src={menuImage2}/>
+                <img className="menuImages" id="three" src={menuImage3}/>
+            </div>
+            <div className="menuSecond">
+                <h1 className="menuTitles" id="firstTitle"> Dinner Menu</h1>
+                <h1 className="menuTitles"> Drinks Menu</h1>
+                <h1 className="menuTitles"> Dessert Menu</h1>
+            </div>
         </div>
     )
 }
