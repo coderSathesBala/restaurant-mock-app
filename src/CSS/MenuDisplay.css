@@ -1,18 +1,24 @@
+.menuFirst {
+    margin: 1rem 0 0 6.5rem;
+    display: grid;
+    grid-template-columns: 23rem 23rem 23rem;
+    column-gap: 0rem;
+}
+
+.menuSecond {
+    font-size: 1.3rem;
+    color: white;
+    margin: -9rem 0 10rem 5.5rem;
+    display: grid;
+    grid-template-columns: 23rem 23rem 23rem;
+    column-gap: 0rem;
+    text-align: center;
+}
+
+#two {
+    margin-top: 3rem;
+}
 .menuImages {
     width: 55vh;
-    height: 90vh;
-    padding-right: 0.7rem;
-    margin-top: 3rem;
-    opacity: 0.9;
-}
-
-#one {
-    margin-left: 5rem;
-}
-
-.menuTitles {
-    display: inline-block;
-    margin-top: -45rem;
-    margin-left: 11.5rem;
-    /* color: white; */
+    height: 85vh;
 }
