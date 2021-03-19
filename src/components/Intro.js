@@ -9,5 +9,9 @@ function Intro() {
         <h1 className="all" id='fourth'>8:00am-12:00pm</h1>
     </div>
     )};
-  
-  export default Intro;
+    
+    export default Intro;
+
+window.onload = function() {
+    document.body.style.backgroundSize = "85rem";
+}

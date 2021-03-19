@@ -3,6 +3,8 @@
   color: white;
   font-family: 'Arvo', serif;
   font-size: 7rem;
+  animation-name: intromove;
+  animation-duration: 2s;
 }
 
 #second {
@@ -24,10 +26,11 @@ body {
   background-image: url(../images/restaurantIntro.jpeg);
   background-repeat: no-repeat;
   margin: 0;
-  background-size: 85rem;
-  transition-duration: 1s;
+  background-size: 95rem;
+  transition-duration: 2s;
 }
 
-body:hover {
-   background-size: 80rem;
- }
+@keyframes intromove {
+  from {transform: translateX(-30rem)}
+  to { transform: translateX()}
+}
