@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/restaurant-mock-app/static/css/main.d6e8584f.chunk.css",
+    "main.js": "/restaurant-mock-app/static/js/main.233c86c7.chunk.js",
+    "main.js.map": "/restaurant-mock-app/static/js/main.233c86c7.chunk.js.map",
+    "runtime~main.js": "/restaurant-mock-app/static/js/runtime~main.9159e5cc.js",
+    "runtime~main.js.map": "/restaurant-mock-app/static/js/runtime~main.9159e5cc.js.map",
+    "static/js/2.5c728427.chunk.js": "/restaurant-mock-app/static/js/2.5c728427.chunk.js",
+    "static/js/2.5c728427.chunk.js.map": "/restaurant-mock-app/static/js/2.5c728427.chunk.js.map",
+    "static/js/3.80aff27d.chunk.js": "/restaurant-mock-app/static/js/3.80aff27d.chunk.js",
+    "static/js/3.80aff27d.chunk.js.map": "/restaurant-mock-app/static/js/3.80aff27d.chunk.js.map",
+    "index.html": "/restaurant-mock-app/index.html",
+    "precache-manifest.a31eb52684ff24fb516050de81c40b98.js": "/restaurant-mock-app/precache-manifest.a31eb52684ff24fb516050de81c40b98.js",
+    "service-worker.js": "/restaurant-mock-app/service-worker.js",
+    "static/css/main.d6e8584f.chunk.css.map": "/restaurant-mock-app/static/css/main.d6e8584f.chunk.css.map",
+    "static/media/beerImage1.jpg": "/restaurant-mock-app/static/media/beerImage1.52eb5b0c.jpg",
+    "static/media/beerImage2.jpg": "/restaurant-mock-app/static/media/beerImage2.617cdf45.jpg",
+    "static/media/beerImage3.jpg": "/restaurant-mock-app/static/media/beerImage3.02a7c07c.jpg",
+    "static/media/beerImage4.jpg": "/restaurant-mock-app/static/media/beerImage4.346f96fe.jpg",
+    "static/media/blueImageDiv.jpg": "/restaurant-mock-app/static/media/blueImageDiv.3060bd7b.jpg",
+    "static/media/foodImage.jpeg": "/restaurant-mock-app/static/media/foodImage.dce750a4.jpeg",
+    "static/media/menuDisplay1.jpeg": "/restaurant-mock-app/static/media/menuDisplay1.2e06d92e.jpeg",
+    "static/media/menuDisplay2.jpeg": "/restaurant-mock-app/static/media/menuDisplay2.7188b7f5.jpeg",
+    "static/media/menuDisplay3.jpeg": "/restaurant-mock-app/static/media/menuDisplay3.c237a4d1.jpeg",
+    "static/media/menuDisplay4.jpeg": "/restaurant-mock-app/static/media/menuDisplay4.38ee06d5.jpeg",
+    "static/media/menuDisplay5.jpeg": "/restaurant-mock-app/static/media/menuDisplay5.b9b35a76.jpeg",
+    "static/media/Intro.css": "/restaurant-mock-app/static/media/restaurantIntro.f4144e69.jpeg",
+    "static/media/restaurantLogo.jpg": "/restaurant-mock-app/static/media/restaurantLogo.8f23402c.jpg"
+  }
+}
