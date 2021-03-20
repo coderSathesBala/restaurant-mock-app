@@ -25,7 +25,7 @@
       "react-app/jest"
     ]
   },
-  "homepage":"https://sathesbitmaker.github.io/restaurant-mock-app/", 
+  "homepage":"https://sathesbitmaker.github.io/restaurant-mockapp/", 
   "browserslist": {
     "production": [
       ">0.2%",
