@@ -3,7 +3,13 @@
     display: grid;
     grid-template-columns: 23rem 23rem 23rem;
     column-gap: 0rem;
+    opacity: 0;
+    transform: translateY(20vh);
+    visibility: hidden;
+    transition: opacity 0.6s ease-out, transform 1.2s ease-out;
+    will-change: opacity, visibility;
 }
+
 
 .menuSecond {
     font-size: 1.3rem;
@@ -13,6 +19,11 @@
     grid-template-columns: 23rem 23rem 23rem;
     column-gap: 0rem;
     text-align: center;
+    opacity: 0;
+    transform: translateY(20vh);
+    visibility: hidden;
+    transition: opacity 0.6s ease-out, transform 1.2s ease-out;
+    will-change: opacity, visibility;
 }
 
 #two {
@@ -22,3 +33,15 @@
     width: 55vh;
     height: 85vh;
 }
+
+.menuFirst.is-visible {
+    opacity: 1;
+    transform: none;
+    visibility: visible;
+  }
+
+.menuSecond.is-visible {
+    opacity: 1;
+    transform: none;
+    visibility: visible;
+  }
