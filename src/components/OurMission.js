@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import blueImageDiv from "../images/blueImageDiv.jpg"
 import foodImage from '../images/foodImage.jpeg'
 import "../CSS/OurMission.css"

@@ -1,3 +1,4 @@
+import React, { Component } from 'react';
 import restaurantLogo from '../images/restaurantLogo.jpg'
 import '../CSS/BottomHeader.css'
 

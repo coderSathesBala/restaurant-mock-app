@@ -1,3 +1,4 @@
+import React, { Component }  from 'react';
 import '../CSS/Intro.css';
 
 function Intro() {

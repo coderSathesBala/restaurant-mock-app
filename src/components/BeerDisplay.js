@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react';
 import beerImage1 from "../images/beerImage1.jpg"
 import beerImage2 from "../images/beerImage2.jpg"
 import beerImage3 from "../images/beerImage3.jpg"
